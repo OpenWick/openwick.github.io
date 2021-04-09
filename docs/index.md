@@ -1,4 +1,4 @@
-# Home
+# About 
 
 Hi, This is Wick
 
